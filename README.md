@@ -3,7 +3,7 @@ Here is the implementation of different Machine Learning techniques in order to 
 
 # Datasets
 The two datasets that were used were extracted from Kaggle.
-• South Park: https://www.kaggle.com/tovarischsukhov/southparklinesAllseasons.csv \\
+• South Park: https://www.kaggle.com/tovarischsukhov/southparklinesAllseasons.csv  <br />
 • Simpsons Family: https://www.kaggle.com/pierremegret/dialoguelines-of-the-simpsons
 
 These are the amount of sentences per character in both shows combined (with >10000 sentences).
