@@ -1,10 +1,9 @@
 # PLBRS
-Personalized Language Based Recognition System
 Here is the implementation of different Machine Learning techniques in order to classify text on fictional characters presented in cartoon TV series 'South Park' and 'Simpsons'.
 
 # Datasets
 The two datasets that were used were extracted from Kaggle.
-• South Park: https://www.kaggle.com/tovarischsukhov/southparklinesAllseasons.csv
+• South Park: https://www.kaggle.com/tovarischsukhov/southparklinesAllseasons.csv \\
 • Simpsons Family: https://www.kaggle.com/pierremegret/dialoguelines-of-the-simpsons
 
 These are the amount of sentences per character in both shows combined (with >10000 sentences).
