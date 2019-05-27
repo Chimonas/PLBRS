@@ -2,9 +2,9 @@
 Here is the implementation of different Machine Learning techniques in order to classify text on fictional characters presented in cartoon TV series 'South Park' and 'Simpsons'.
 
 # Datasets
-The two datasets that were used were extracted from Kaggle.
+The two datasets that were used were extracted from Kaggle. <br />
 • South Park: https://www.kaggle.com/tovarischsukhov/southparklinesAllseasons.csv  <br />
-• Simpsons Family: https://www.kaggle.com/pierremegret/dialoguelines-of-the-simpsons
+• Simpsons Family: https://www.kaggle.com/pierremegret/dialoguelines-of-the-simpsons <br/>
 
 These are the amount of sentences per character in both shows combined (with >10000 sentences).
 
@@ -21,4 +21,4 @@ In the notebook Project notebook all the pre-processes are done and the classifi
 
 # Possible Improvements
 
-As observed the CNN and LSTM have performed better than the other two (simpler) classificators. But it is important to note that the two neural networks have only a simple architecture with not much hyperparameter tuning.
+As observed the CNN and LSTM have performed better than the other two (simpler) classificators. But it is important to note that the two neural networks have only a simple architecture with not much hyperparameter tuning. A lot of improvement could be done by extending the neural network architecture and doing better hyperparameter optimitation. In the time frame that we had it was very hard to implement different architectures as they required a lot of time to train.
