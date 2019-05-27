@@ -15,6 +15,11 @@ In the code the data is cleaned and then by using the SMOTE algorithm the data i
 
 # Classificators
 
-In the notebook Project notebook all the pre-processes are done and the classificators are trained. The classificators that were used are Logistic Regression, Naive Bayes classifier, Convolutional Neural Network (simple architecture), Long-Term Short-Term Memory (simple architecture). Bellow you can see the performances for these.
+In the notebook Project notebook all the pre-processes are done and the classificators are trained. The classificators that were used are Logistic Regression, Naive Bayes classifier, Convolutional Neural Network (simple architecture), Long-Term Short-Term Memory (simple architecture). Bellow you can see the performances that they achieved.
 
 ![alt text](https://github.com/Chimonas/PLBRS/blob/master/images/table.png)
+
+
+# Possible Improvements
+
+As observed the CNN and LSTM have performed better than the other two (simpler) classificators. But it is important to note that the two neural networks have only a simple architecture with not much hyperparameter tuning.
